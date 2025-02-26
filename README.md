@@ -15,7 +15,7 @@ desse banco apenas pelo <i>input</i> do usuário.
 
 # Acesso ao Projeto
 Você pode <a href="https://github.com/janisgsoliveira/Python-Database/tree/main">baixar o projeto</a> em ***.zip*** e descompactá-lo.
-Para abrir este projeto, é necessário que você tenha um compilador de Python ***(VSCode, PyCharm, entre outros)*** e execute os programas. 
+Para abrir este projeto, basta executar os programas. 
 
 # Tecnologias Utilizadas
 - Python 3.12
